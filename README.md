@@ -1,5 +1,4 @@
-<style> h1,h2,h3,h4 { border-bottom: 0; } </style>
-# Hi, I'm Peter 👋
+# Hi, I'm Peter 👋 #
 
 <!--
 **peterbikes/peterbikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
