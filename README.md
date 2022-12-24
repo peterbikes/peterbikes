@@ -1,4 +1,4 @@
-<h1> Hi, I'm Peter 👋 </h1>
+<h1> Hi, I'm Peter <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
 
 <!--
 **peterbikes/peterbikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
