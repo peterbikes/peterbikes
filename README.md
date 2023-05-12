@@ -1,16 +1,13 @@
-<h1> Hi, I'm Peter <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
+<h1> Hi, my name is Pedro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
 
-<!--
-**peterbikes/peterbikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineering student based in Portugal.
 
-Here are some ideas to get you started:
+Currently, I'm studying software engineering at 42 Porto, where I'm learning a wide range of software development concepts, mainly focused on C programming, and I'm excited to continue developing my skills in this area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to my studies, I'm also a musician and enjoy busking in my free time. I love the creative freedom that music provides, and I believe that my experiences as a musician have helped me to develop a unique perspective on software engineering and problem-solving.
+
+I'm always looking for new opportunities to learn and grow, so feel free to reach out to me if you have any interesting projects or collaborations in mind.
+
+Thanks for checking out my profile, and I look forward to connecting with you!
+
+- 📫 How to reach me: pedrosmmota@gmail.com
