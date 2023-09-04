@@ -1,13 +1,12 @@
-<h1>Hi, I'm Pedro </h1>
+# Hi, I'm Pedro 👋
 
-I am a software engineering student based in Portugal.
+🎸 Music student and teacher<br>
+🧩 Like logic and puzzles<br>
+🖥️ Studying at 42 Porto
+📫 Reach me: pedrosmmota@gmail.com
 
-I study software engineering at School 42, where I'm learning a wide range of software development concepts, mainly focused on C and C++ programming.
+## Worked with: 
 
-I'm also a musician 🎸 and I enjoy busking in my free time. 
+![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
 
-Looking forward to connecting with you! 🖥️
-
-- 📫 How to reach me: pedrosmmota@gmail.com
-
-
+![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoCol    or=9445FC)
