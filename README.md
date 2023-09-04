@@ -7,6 +7,5 @@
 
 ## Worked with: 
 
-![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
+![C](img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /)
 
-![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoCol    or=9445FC)
