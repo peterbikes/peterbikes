@@ -7,5 +7,5 @@
 
 ## Worked with: 
 
-![C](img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /)
+![C]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
