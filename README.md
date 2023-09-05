@@ -12,5 +12,3 @@
   </a>
 </p>
 
-[![psotto-m-'s 42 stats](https://badge.mediaplus.ma/darkblue/psotto-m-?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/psotto-m-)
-
