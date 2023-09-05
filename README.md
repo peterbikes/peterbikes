@@ -12,3 +12,4 @@
   </a>
 </p>
 
+[![psotto-m's 42 stats](https://badge.mediaplus.ma/colorfulwaves/psotto-m?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
