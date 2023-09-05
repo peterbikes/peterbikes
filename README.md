@@ -8,7 +8,7 @@
 # I have worked with:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,github,bash,linux,vim,vscode,markdown,ableton" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,github,bash,linux,vim,vscode,markdown,atom,ableton" />
   </a>
 </p>
 
