@@ -1,10 +1,10 @@
 # Hi, I'm Pedro 👋
   <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/peterbikes/badges/large" alt="codewars badge large" /></a>
 
-🎸 ** Music student and teacher<br>
-🧩 ** Passionate about logic<br>
-🖥️ ** Studying at 42 Porto<br>
-📫 ** Reach me: pedrosmmota@gmail.com
+🎸 __Music student and teacher__ <br>
+🧩 __Passionate about logic__ <br>
+🖥️ __Studying at 42 Porto__ <br>
+📫 __Reach me: pedrosmmota@gmail.com__
 
 # I have worked with:
 <p align="left">
