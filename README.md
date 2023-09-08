@@ -4,7 +4,6 @@
 🎸 __Music student and teacher__ <br>
 🧩 __Passionate about logic__ <br>
 🖥️ __Studying at 42 Porto__ <br>
-📫 __Reach me: pedrosmmota@gmail.com__
 
 # I have worked with:
 <p align="left">
