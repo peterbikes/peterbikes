@@ -12,10 +12,6 @@
   </a>
 </p>
 
-# My progress at School 42
-
-[![psotto-m's 42 stats](https://badge.mediaplus.ma/colorfulwaves/psotto-m?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=peterbikes)](https://git.io/streak-stats)-->
 ![Peter Bikes GitHub stats](https://github-readme-stats.vercel.app/api?username=peterbikes&show_icons=true&theme=transparent)
 
