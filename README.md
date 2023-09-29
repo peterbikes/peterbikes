@@ -18,19 +18,20 @@
 
 ## Projects
 
-    [LIBFT] - 🏗️ under construction
+    [📚 - LIBFT] - 🏗️ under construction
 
    [🌲 - BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
 
-    [GET-NEXT-LINE] - 🏗️ under construction
-    [FT_PRINTF] - 🏗️ under construction
-    [PUSH-SWAP] - 🏗️ under construction
-    [MINI-TALK] - 🏗️ under construction
-    [SO-LONG] - 🏗️ under construction
-    [PHILOSOPHERS] - 🏗️ under construction
-    [MINISHELL] - 🏗️ under construction
+    [🔄 - GET-NEXT-LINE] - 🏗️ under construction
+    [🖨️ - FT_PRINTF] - 🏗️ under construction
+    [🔀 - PUSH-SWAP] - 🏗️ under construction
+    [💬 - MINI-TALK] - 🏗️ under construction
+    [🐬 - SO-LONG] - 🏗️ under construction
+    [🍜 - PHILOSOPHERS] - 🏗️ under construction
+    [🐚 - MINISHELL] - 🏗️ under construction
+    [🌐 - NETPRACTICE] - 🏗️ under construction
+
     [CUB3D] - 🏗️ under construction
-    [NETPRACTICE] - 🏗️ under construction
     [CPP] - 🏗️ under construction
     [INCEPTION] - 🏗️ under construction
     [WEBSERV or FT_IRC] - 🏗️ under construction
