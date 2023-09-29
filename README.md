@@ -14,7 +14,9 @@
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=peterbikes)](https://git.io/streak-stats)-->
 ![Peter Bikes GitHub stats](https://github-readme-stats.vercel.app/api?username=peterbikes&show_icons=true&theme=transparent)
-# My School42 progress:
+# 42 progress
+
+## Projects
 
     [LIBFT] - 🏗️ under construction
 
