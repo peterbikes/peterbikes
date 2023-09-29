@@ -14,5 +14,28 @@
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=peterbikes)](https://git.io/streak-stats)-->
 ![Peter Bikes GitHub stats](https://github-readme-stats.vercel.app/api?username=peterbikes&show_icons=true&theme=transparent)
+# My School42 progress:
 
+    [LIBFT] - 🏗️ under construction
+
+    [🌲 - BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
+    [GET-NEXT-LINE] - 🏗️ under construction
+    [FT_PRINTF] - 🏗️ under construction
+    
+    [PUSH-SWAP] - 🏗️ under construction
+    [MINI-TALK] - 🏗️ under construction
+    [SO-LONG] - 🏗️ under construction
+
+
+    [PHILOSOPHERS] - 🏗️ under construction
+    [MINISHELL] - 🏗️ under construction
+
+    [CUB3D] - 🏗️ under construction
+    [NETPRACTICE] - 🏗️ under construction
+    [CPP] - 🏗️ under construction
+
+    [INCEPTION] - 🏗️ under construction
+    [WEBSERV or FT_IRC] - 🏗️ under construction
+
+    [FT_TRANSCENDENCE] - 🏗️ under construction
 
