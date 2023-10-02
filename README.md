@@ -31,13 +31,14 @@
 [💬 - MINI-TALK](https://github.com/peterbikes/42_MiniTalk)
 <br>
 [🐬 - SO-LONG](https://github.com/peterbikes/42_SoLong)
-<br>  
+<br>
 [🍜 - PHILOSOPHERS] - 🏗️ under construction
-<br>  
+<br>
 [🐚 - MINISHELL] - 🏗️ under construction
-  
-    [🌐 - NETPRACTICE] - 🏗️ under construction
 
+
+[🌐 - NETPRACTICE](https://github.com/peterbikes/42_NetPractice)
+<br>
     [CUB3D] - 🏗️ under construction
     [CPP] - 🏗️ under construction
     [INCEPTION] - 🏗️ under construction
