@@ -14,9 +14,9 @@
 
 <!--[![GitHub Streak]-->
 ![Peter Bikes GitHub stats](https://github-readme-stats.vercel.app/api?username=peterbikes&show_icons=true&theme=transparent)
-# 42 progress
+# 42 School 
 
-## Projects
+## Common Core Projects
 
 📚 - [LIBFT](https://github.com/peterbikes/42_Libft)
 <br>
