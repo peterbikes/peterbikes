@@ -32,8 +32,7 @@
 <br>
 🐬 - [SO-LONG](https://github.com/peterbikes/42_SoLong)
 <br>
-<br>
-🍜 - PHILOSOPHERS - 🏗️ under construction
+🍜 - [PHILOSOPHERS](https://github.com/peterbikes/42_Philosophers)
 <br>
 🐚 - MINISHELL - 🏗️ under construction
 
