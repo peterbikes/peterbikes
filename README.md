@@ -30,12 +30,11 @@
 <br>
 [💬 - MINI-TALK](https://github.com/peterbikes/42_MiniTalk)
 <br>
-  
-    [🐬 - SO-LONG] - 🏗️ under construction
-  
-    [🍜 - PHILOSOPHERS] - 🏗️ under construction
-  
-    [🐚 - MINISHELL] - 🏗️ under construction
+[🐬 - SO-LONG](https://github.com/peterbikes/42_SoLong)
+<br>  
+[🍜 - PHILOSOPHERS] - 🏗️ under construction
+<br>  
+[🐚 - MINISHELL] - 🏗️ under construction
   
     [🌐 - NETPRACTICE] - 🏗️ under construction
 
