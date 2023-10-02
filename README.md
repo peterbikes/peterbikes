@@ -17,7 +17,6 @@
 # 42 progress
 
 ## Projects
-<font size="5">
 
 📚 - [LIBFT](https://github.com/peterbikes/42_Libft)
 <br>
@@ -50,5 +49,4 @@
 [WEBSERV or FT_IRC] - 🏗️ under construction
 <br>
 [FT_TRANSCENDENCE] - 🏗️ under construction
-</font>
 <br>
