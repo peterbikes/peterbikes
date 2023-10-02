@@ -27,7 +27,8 @@
   [🖨️ - FT_PRINTF](https://github.com/peterbikes/42_FtPrintf)
     <br>
   
-    [🔀 - PUSH-SWAP] - 🏗️ under construction
+  [🔀 - PUSH-SWAP](https://github.com/peterbikes/42_PushSwap)
+    <br>
   
     [💬 - MINI-TALK] - 🏗️ under construction
   
