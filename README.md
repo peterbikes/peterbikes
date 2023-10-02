@@ -18,18 +18,18 @@
 
 ## Projects
 
-  [📚 - LIBFT](https://github.com/peterbikes/42_Libft)
-   <br>
-   [🌲 - BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
-   <br>
-  [🔄 - GET-NEXT-LINE](https://github.com/peterbikes/42_GetNextLine)
-    <br>
-  [🖨️ - FT_PRINTF](https://github.com/peterbikes/42_FtPrintf)
-    <br>
-  [🔀 - PUSH-SWAP](https://github.com/peterbikes/42_PushSwap)
-    <br>
-  
-    [💬 - MINI-TALK] - 🏗️ under construction
+📚 - [LIBFT](https://github.com/peterbikes/42_Libft)
+<br>
+[🌲 - BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
+<br>
+[🔄 - GET-NEXT-LINE](https://github.com/peterbikes/42_GetNextLine)
+<br>
+[🖨️ - FT_PRINTF](https://github.com/peterbikes/42_FtPrintf)
+<br>
+[🔀 - PUSH-SWAP](https://github.com/peterbikes/42_PushSwap)
+<br>
+[💬 - MINI-TALK](https://github.com/peterbikes/42_MiniTalk)
+<br>
   
     [🐬 - SO-LONG] - 🏗️ under construction
   
