@@ -12,6 +12,7 @@
   </a>
 </p>
 
+<!--[![GitHub Streak]-->
 ![Peter Bikes GitHub stats](https://github-readme-stats.vercel.app/api?username=peterbikes&show_icons=true&theme=transparent)
 # 42 progress
 
