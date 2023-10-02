@@ -18,19 +18,25 @@
 
 ## Projects
 
-   [📚 - LIBFT](https://github.com/peterbikes/42_Libft)
+  [📚 - LIBFT](https://github.com/peterbikes/42_Libft)
    <br>
    [🌲 - BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
    <br>
-    [🔄 - GET-NEXT-LINE](https://github.com/peterbikes/42_GetNextLine)
+  [🔄 - GET-NEXT-LINE](https://github.com/peterbikes/42_GetNextLine)
+    <br>
+  [🖨️ - FT_PRINTF](https://github.com/peterbikes/42_FtPrintf)
     <br>
   
-    [🖨️ - FT_PRINTF] - 🏗️ under construction
     [🔀 - PUSH-SWAP] - 🏗️ under construction
+  
     [💬 - MINI-TALK] - 🏗️ under construction
+  
     [🐬 - SO-LONG] - 🏗️ under construction
+  
     [🍜 - PHILOSOPHERS] - 🏗️ under construction
+  
     [🐚 - MINISHELL] - 🏗️ under construction
+  
     [🌐 - NETPRACTICE] - 🏗️ under construction
 
     [CUB3D] - 🏗️ under construction
