@@ -17,7 +17,7 @@
 # 42 progress
 
 ## Projects
-<font size="4">
+<font size="5">
 
 📚 - [LIBFT](https://github.com/peterbikes/42_Libft)
 <br>
