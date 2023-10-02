@@ -22,8 +22,8 @@
    <br>
    [🌲 - BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
    <br>
-    [🔄 - GET-NEXT-LINE] - 🏗️ under construction(https://github.com/peterbikes/42_GetNextLine)
-    
+    [🔄 - GET-NEXT-LINE](https://github.com/peterbikes/42_GetNextLine)
+    <br>
     [🖨️ - FT_PRINTF] - 🏗️ under construction
     [🔀 - PUSH-SWAP] - 🏗️ under construction
     [💬 - MINI-TALK] - 🏗️ under construction
