@@ -34,8 +34,8 @@
 <br>
 🍜 - [PHILOSOPHERS](https://github.com/peterbikes/42_Philosophers)
 <br>
-🐚 - MINISHELL - 🏗️ under construction
-
+🐚 - [MINISHELL](https://github.com/peterbikes/42_Minishell)
+<br>
 🌐 - [NETPRACTICE](https://github.com/peterbikes/42_NetPractice)
 <br>
 <br>
