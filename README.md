@@ -17,27 +17,29 @@
 # 42 progress
 
 ## Projects
+<font size="4">
 
 📚 - [LIBFT](https://github.com/peterbikes/42_Libft)
 <br>
-[🌲 - BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
+🌲 - [BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
 <br>
-[🔄 - GET-NEXT-LINE](https://github.com/peterbikes/42_GetNextLine)
+🔄 - [GET-NEXT-LINE](https://github.com/peterbikes/42_GetNextLine)
 <br>
-[🖨️ - FT_PRINTF](https://github.com/peterbikes/42_FtPrintf)
+🖨️ - [FT_PRINTF](https://github.com/peterbikes/42_FtPrintf)
 <br>
-[🔀 - PUSH-SWAP](https://github.com/peterbikes/42_PushSwap)
+🔀 - [PUSH-SWAP](https://github.com/peterbikes/42_PushSwap)
 <br>
-[💬 - MINI-TALK](https://github.com/peterbikes/42_MiniTalk)
+💬 - [MINI-TALK](https://github.com/peterbikes/42_MiniTalk)
 <br>
-[🐬 - SO-LONG](https://github.com/peterbikes/42_SoLong)
+🐬 - [SO-LONG](https://github.com/peterbikes/42_SoLong)
 <br>
-[🍜 - PHILOSOPHERS] - 🏗️ under construction
 <br>
-[🐚 - MINISHELL] - 🏗️ under construction
+🍜 - PHILOSOPHERS - 🏗️ under construction
+<br>
+🐚 - MINISHELL - 🏗️ under construction
 
-
-[🌐 - NETPRACTICE](https://github.com/peterbikes/42_NetPractice)
+🌐 - [NETPRACTICE](https://github.com/peterbikes/42_NetPractice)
+<br>
 <br>
 [CUB3D] - 🏗️ under construction
 <br>
@@ -48,4 +50,5 @@
 [WEBSERV or FT_IRC] - 🏗️ under construction
 <br>
 [FT_TRANSCENDENCE] - 🏗️ under construction
+</font>
 <br>
