@@ -26,7 +26,6 @@
     <br>
   [🖨️ - FT_PRINTF](https://github.com/peterbikes/42_FtPrintf)
     <br>
-  
   [🔀 - PUSH-SWAP](https://github.com/peterbikes/42_PushSwap)
     <br>
   
