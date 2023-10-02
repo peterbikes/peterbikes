@@ -18,8 +18,7 @@
 
 ## Projects
 
-    [📚 - LIBFT] - 🏗️ under construction
-
+   [📚 - LIBFT](https://github.com/peterbikes/42_Libft)
    [🌲 - BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
 
     [🔄 - GET-NEXT-LINE] - 🏗️ under construction
