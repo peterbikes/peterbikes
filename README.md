@@ -39,9 +39,13 @@
 
 [🌐 - NETPRACTICE](https://github.com/peterbikes/42_NetPractice)
 <br>
-    [CUB3D] - 🏗️ under construction
-    [CPP] - 🏗️ under construction
-    [INCEPTION] - 🏗️ under construction
-    [WEBSERV or FT_IRC] - 🏗️ under construction
-    [FT_TRANSCENDENCE] - 🏗️ under construction
-
+[CUB3D] - 🏗️ under construction
+<br>
+[CPP] - 🏗️ under construction
+<br>
+[INCEPTION] - 🏗️ under construction
+<br>
+[WEBSERV or FT_IRC] - 🏗️ under construction
+<br>
+[FT_TRANSCENDENCE] - 🏗️ under construction
+<br>
