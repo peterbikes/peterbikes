@@ -42,8 +42,8 @@
 <br>
 🌐 - [NETPRACTICE](https://github.com/peterbikes/42_NetPractice)
 <br>
+🧊 - [CUB3D](https://github.com/jotavare/cub3d)
 <br>
-[CUB3D] - 🏗️ under construction
 <br>
 [CPP] - 🏗️ under construction
 <br>
