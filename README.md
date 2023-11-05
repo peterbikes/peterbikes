@@ -44,8 +44,8 @@
 <br>
 🧊 - [CUB3D](https://github.com/jotavare/cub3d)
 <br>
+⏫ - [CPP](https://github.com/peterbikes/42_CPP)
 <br>
-[CPP] - 🏗️ under construction
 <br>
 [INCEPTION] - 🏗️ under construction
 <br>
