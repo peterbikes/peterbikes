@@ -11,8 +11,6 @@
   </a>
 </p>
 
-<!--[![GitHub Streak]-->
-![Peter Bikes GitHub stats](https://github-readme-stats.vercel.app/api?username=peterbikes&show_icons=true&theme=transparent)
 # Projects
 
 #️ - [Brute Force Sudoku Solver](https://github.com/peterbikes/Sudoku_Solver)
