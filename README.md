@@ -1,5 +1,7 @@
 # Hi, I'm Pedro 👋
 
+<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/peterbikes/badges/small" alt="codewars badge small" /></a>
+
 🎸 __Music student and teacher__ <br>
 🧩 __Passionate about logic__ <br>
 🖥️ __Studying at 42 Porto__ <br>
@@ -10,8 +12,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,github,bash,linux,vim,vscode,markdown,atom,ableton" />
   </a>
 </p>
-
-<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/peterbikes/badges/small" alt="codewars badge small" /></a>
 
 # Projects
 
