@@ -11,6 +11,8 @@
   </a>
 </p>
 
+<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/peterbikes/badges/small" alt="codewars badge small" /></a>
+
 # Projects
 
 #️ - [Brute Force Sudoku Solver](https://github.com/peterbikes/Sudoku_Solver)
