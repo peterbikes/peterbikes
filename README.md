@@ -46,9 +46,9 @@
 ⏫ - [CPP](https://github.com/peterbikes/42_CPP)
 <br>
 <br>
-[INCEPTION] - 🏗️ under construction
+INCEPTION - 🏗️ under construction
 <br>
-[WEBSERV or FT_IRC] - 🏗️ under construction
+WEBSERV or FT_IRC - 🏗️ under construction
 <br>
-[FT_TRANSCENDENCE] - 🏗️ under construction
+FT_TRANSCENDENCE - 🏗️ under construction
 <br>
