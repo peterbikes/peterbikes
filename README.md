@@ -6,7 +6,7 @@
 🧩 __Passionate about logic__ <br>
 🖥️ __Studying at 42 Porto__ <br>
 
-## I have worked with:
+### I have worked with:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -14,13 +14,13 @@
   </a>
 </p>
 
-## Projects
+### Projects
 
 - #️ [Brute Force Sudoku Solver](https://github.com/peterbikes/Sudoku_Solver)
 
 ## 42 School 
 
-## Common Core Projects
+### Common Core Projects
 
 - 📚 [LIBFT](https://github.com/peterbikes/42_Libft)
 - 🌲 [BORN2BEROOT](https://github.com/peterbikes/42_Born2BeRoot)
