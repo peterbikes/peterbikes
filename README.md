@@ -16,7 +16,7 @@
 
 # Projects
 
-- #️ [Brute Force Sudoku Solver](https://github.com/peterbikes/Sudoku_Solver)
+- #️⃣ [Brute Force Sudoku Solver](https://github.com/peterbikes/Sudoku_Solver)
 - 🐍 [Snake Game](https://github.com/peterbikes/Snake)
 
 # 42 School 
