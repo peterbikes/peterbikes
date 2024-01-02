@@ -17,7 +17,7 @@
 # Projects
 
 - #️⃣ [Brute Force Sudoku Solver](https://github.com/peterbikes/Sudoku_Solver)
-- 🐍 [Snake Game - built with PyGame](https://github.com/peterbikes/Snake)
+- 🐍 [Snake built with PyGame](https://github.com/peterbikes/Snake)
 
 # 42 School 
 
