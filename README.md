@@ -33,7 +33,7 @@
 - 🍜 [PHILOSOPHERS](https://github.com/peterbikes/42_Philosophers)
 - 🐚 [MINISHELL](https://github.com/peterbikes/42_Minishell)
 - 🌐 [NETPRACTICE](https://github.com/peterbikes/42_NetPractice)
-- CUB3D - 🏗️ under construction
+- ⚡ [MINIRT](https://github.com/jtcat/minirt)
 - ⏫ [CPP](https://github.com/peterbikes/42_CPP)
 - INCEPTION - 🏗️ under construction
 - WEBSERV or FT_IRC - 🏗️ under construction
