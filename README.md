@@ -35,6 +35,6 @@
 - 🌐 [NETPRACTICE](https://github.com/peterbikes/42_NetPractice)
 - ⚡ [MINIRT](https://github.com/jtcat/minirt)
 - ⏫ [CPP](https://github.com/peterbikes/42_CPP)
-- INCEPTION - 🏗️ under construction
+- 🐋 [INCEPTION](https://github.com/peterbikes/42_Inception)
 - WEBSERV or FT_IRC - 🏗️ under construction
 - FT_TRANSCENDENCE - 🏗️ under construction
