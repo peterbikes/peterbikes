@@ -10,10 +10,12 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![BASH](https://img.shields.io/badge/-BASH-000?&logo=gnubash)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Unix](https://img.shields.io/badge/-Unix-000?&logo=Unix)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ## Projects
