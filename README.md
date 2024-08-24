@@ -16,7 +16,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ## Projects
 
