@@ -17,6 +17,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Bitwig](https://img.shields.io/badge/-Bitwig-000?&logo=bitwig)
 ![Markdown](https://img.shields.io/badge/-MARKDOWN-000?&logo=markdown)
+![VIM](https://img.shields.io/badge/-vim-000?&logo=vim)
 
 ## Projects
 
