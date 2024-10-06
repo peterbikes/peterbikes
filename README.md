@@ -42,5 +42,5 @@
 - ⚡ [MINIRT](https://github.com/jtcat/minirt)
 - ⏫ [CPP](https://github.com/peterbikes/42_CPP)
 - 🐋 [INCEPTION](https://github.com/peterbikes/42_Inception)
-- WEBSERV or FT_IRC - 🏗️ under construction
+- 💬 [FT_IRC](https://github.com/peterbikes/42_FTIRC)
 - FT_TRANSCENDENCE - 🏗️ under construction
