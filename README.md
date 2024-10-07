@@ -13,6 +13,7 @@
 ![BASH](https://img.shields.io/badge/-BASH-000?&logo=gnubash)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Arch](https://img.shields.io/badge/-Arch-000?&logo=artixlinux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
