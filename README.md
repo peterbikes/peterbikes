@@ -21,7 +21,7 @@
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=green)
 ![Brave](https://img.shields.io/badge/Brave-000?logo=Brave&logoColor=orange)
 ![Bitwig](https://img.shields.io/badge/-Bitwig-000?&logo=bitwig)
-![Gimp](https://img.shields.io/badge/Gimp-000?logo=gimp)
+![Gimp](https://img.shields.io/badge/Gimp-000?logo=gimp&logoColor=grey)
 
 ## Projects
 
