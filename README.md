@@ -16,7 +16,7 @@
 ![Arch](https://img.shields.io/badge/-Arch-000?&logo=artixlinux)
 ![Debian](https://img.shields.io/badge/-Debian-000logo=debian&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Slack](https://img.shields.io/badge/Slack-000?logo=slack&logoColor=purple)
