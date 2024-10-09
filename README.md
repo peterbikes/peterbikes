@@ -11,7 +11,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![BASH](https://img.shields.io/badge/-BASH-000?&logo=gnubash)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=red)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Arch](https://img.shields.io/badge/-Arch-000?&logo=artixlinux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
