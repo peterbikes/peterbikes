@@ -6,7 +6,7 @@
 🧩 __Passionate about logic__ <br>
 🖥️ __Studying at 42 Porto__ <br>
 
-## Techs:
+## Techs & Tools:
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
