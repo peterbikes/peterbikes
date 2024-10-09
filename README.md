@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=red)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Arch](https://img.shields.io/badge/-Arch-000?&logo=artixlinux)
-![Debian](https://img.shields.io/badge/-Debian-000logo=debian&logoColor=red)
+![Debian](https://img.shields.io/badge/Debian-000?logo=debian&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
