@@ -19,6 +19,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim)
+![Brave](https://img.shields.io/badge/Brave-000?logo=Brave&logoColor=white)
 ![Bitwig](https://img.shields.io/badge/-Bitwig-000?&logo=bitwig)
 ![Gimp](https://img.shields.io/badge/Gimp-000?logo=gimp)
 
