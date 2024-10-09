@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Slack](https://img.shields.io/badge/Slack-000?logo=slack&logoColor=purple)]
+![Slack](https://img.shields.io/badge/Slack-000?logo=slack&logoColor=purple)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=purple)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=green)
