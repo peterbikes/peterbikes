@@ -17,6 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=green)
 ![Brave](https://img.shields.io/badge/Brave-000?logo=Brave&logoColor=orange)
