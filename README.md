@@ -20,7 +20,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim)
 ![Bitwig](https://img.shields.io/badge/-Bitwig-000?&logo=bitwig)
-[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp)]
+![Gimp](https://img.shields.io/badge/Gimp-000?logo=gimp)
 
 ## Projects
 
