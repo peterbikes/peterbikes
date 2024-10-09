@@ -14,18 +14,18 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=red)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Arch](https://img.shields.io/badge/-Arch-000?&logo=artixlinux)
-![Debian](https://img.shields.io/badge/Debian-000logo=debian&logoColor=red)]
+![Debian](https://img.shields.io/badge/Debian-000logo=debian&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Slack](https://img.shields.io/badge/Slack-000?logo=slack&logoColor=purple)]
-![Notion](https://img.shields.io/badge/Notion-000?logo=notion)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=purple)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=green)
 ![Brave](https://img.shields.io/badge/Brave-000?logo=Brave&logoColor=orange)
 ![Bitwig](https://img.shields.io/badge/-Bitwig-000?&logo=bitwig)
-![Audacity](https://img.shields.io/badge/Audacity-000?logo=audacity&logoColor=orange)]
+![Audacity](https://img.shields.io/badge/Audacity-000?logo=audacity&logoColor=orange)
 ![Gimp](https://img.shields.io/badge/Gimp-000?logo=gimp&logoColor=grey)
 
 ## Projects
