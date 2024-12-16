@@ -28,12 +28,6 @@
 ![Audacity](https://img.shields.io/badge/Audacity-000?logo=audacity&logoColor=orange)
 ![Gimp](https://img.shields.io/badge/Gimp-000?logo=gimp&logoColor=grey)
 
-## Projects
-
-- #️⃣ [Brute Force Sudoku Solver](https://github.com/peterbikes/Sudoku_Solver)
-- 🐍 [Snake built with PyGame](https://github.com/peterbikes/Snake)
-- ✏️ [100 (Small) Python Projects](https://github.com/peterbikes/100_Python_Projects)
-
 ## 42 School 
 
 ### Common Core Projects
@@ -53,3 +47,9 @@
 - 🐋 [INCEPTION](https://github.com/peterbikes/42_Inception)
 - 🦜 [FT_IRC](https://github.com/peterbikes/42_FTIRC)
 - FT_TRANSCENDENCE - 🏗️ under construction
+
+## Projects
+
+- #️⃣ [Brute Force Sudoku Solver](https://github.com/peterbikes/Sudoku_Solver)
+- 🐍 [Snake built with PyGame](https://github.com/peterbikes/Snake)
+- ✏️ [100 (Small) Python Projects](https://github.com/peterbikes/100_Python_Projects)
