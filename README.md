@@ -44,7 +44,7 @@
 - ⏫ [CPP](https://github.com/peterbikes/42_CPP)
 - 🐋 [INCEPTION](https://github.com/peterbikes/42_Inception)
 - 🦜 [FT_IRC](https://github.com/peterbikes/42_FTIRC)
-- 🧘🏽 [FT_TRANSCENDENCE](https://github.com/davidmonteiro03/42-Cursus/tree/main/Projects/RANK06/ft_transcendence)
+- 🧘🏽 [FT_TRANSCENDENCE](https://github.com/davidmonteiro03/ft_transcendence)
 
 ## Projects
 
