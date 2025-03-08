@@ -2,7 +2,7 @@
 
 🎸 __Music student and teacher__ <br>
 🧩 __Passionate about logic__ <br>
-🖥️ __Studying at 42 Porto__ <br>
+🖥️ __42 Porto graduate__ <br>
 
 ## Techs & Tools:
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -25,6 +25,14 @@
 ![Bitwig](https://img.shields.io/badge/-Bitwig-000?&logo=bitwig)
 ![Audacity](https://img.shields.io/badge/Audacity-000?logo=audacity&logoColor=orange)
 ![Gimp](https://img.shields.io/badge/Gimp-000?logo=gimp&logoColor=grey)
+
+## SEA:ME
+
+SEA:ME (Software Engineering in Automotive and Mobility Ecosystems) is an innovative self-learning curriculum at master-level – in software engineering for mobility. It was first offered to students in 2022-23 in the European capital of mobility: Wolfsburg (Germany), home of VW.
+
+Find out more about it [in the official site](https://seame.space/).
+
+It was fantastic to be apart of this program, and you can see my personal project page at [JetPackJoyRide's](https://github.com/SEAME-pt/JetPackJoyRide) repo page.
 
 ## 42 School 
 
