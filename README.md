@@ -2,7 +2,7 @@
 
 🎸 __Music student and teacher__ <br>
 🧩 __Passionate about logic__ <br>
-🖥️ __Studying at 42 Porto__ <br>
+🖥️ __42 Porto graduate__ <br>
 
 ## Techs & Tools:
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
