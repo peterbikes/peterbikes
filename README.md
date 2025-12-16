@@ -32,7 +32,7 @@ SEA:ME (Software Engineering in Automotive and Mobility Ecosystems) is an innova
 
 Find out more about it [in the official site](https://seame.space/).
 
-It was fantastic to be apart of this program, and you can see my personal project page at [JetPackJoyRide's](https://github.com/SEAME-pt/JetPackJoyRide) repo page.
+It was fantastic to be part of this program, and you can see my personal project page at [JetPackJoyRide's](https://github.com/SEAME-pt/JetPackJoyRide) repo page.
 
 ## 42 School 
 
