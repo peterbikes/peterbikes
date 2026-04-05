@@ -25,6 +25,7 @@
 ![Bitwig](https://img.shields.io/badge/-Bitwig-000?&logo=bitwig)
 ![Audacity](https://img.shields.io/badge/Audacity-000?logo=audacity&logoColor=orange)
 ![Gimp](https://img.shields.io/badge/Gimp-000?logo=gimp&logoColor=grey)
+![Swift](https://img.shields.io/badge/Swift-000?logo=swift&logoColor=orange)
 
 ## SEA:ME
 
